@@ -39,5 +39,9 @@
             <url>https://maven.pkg.github.com/TobseF/HelloMaven</url>
         </repository>
     </distributionManagement>
-#Hello
+         <dependency>
+             <groupId>github.tobsef</groupId>
+             <artifactId>hello-maven</artifactId>
+             <version>1.2.1</version>
+         </dependency>
 </project>
